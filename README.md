@@ -16,7 +16,7 @@
 
 ## 🔜 Coming Up Next:
 - Python for data & automation (Google IT Automation Certificate)
-- No-code automation tools: Notion, Zapier, Make Notion
+- No-code automation tools: (Notion, Zapier, ChatGPT)
 - Cybersecurity foundations (Google Certificate)
 
 ---
