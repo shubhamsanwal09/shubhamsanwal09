@@ -57,7 +57,7 @@ A deep dive into long-term mutual fund data with Python, Power BI, and financial
 
 ## Contact
 
-- LinkedIn:  https://www.linkedin.com/feed/
+- LinkedIn: https://www.linkedin.com/in/shubham-sanwal/
 - Email: shubhamsanwals@gmail.com
 - Open to global roles where data meets football
 
