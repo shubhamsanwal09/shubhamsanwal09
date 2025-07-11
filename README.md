@@ -48,10 +48,7 @@ I'm a passionate footballer turned data analyst on a mission to merge my love fo
 ## Featured Projects
 
 ### Business Analytics Project  
-A real-world case study using Excel and Power BI to uncover trends and drive data-based decisions.
-
-### Football Analytics: U-21 Goal Scorers in Europe  
-A project using public football data to explore and visualize emerging talent across top leagues.
+A real-world case study using Excel and Power BI to uncover trends and drive data-based decisions
 
 ### Investment Insights Dashboard  
 A deep dive into long-term mutual fund data with Python, Power BI, and financial storytelling.
